@@ -26,17 +26,3 @@ Follow these steps to set up the project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/shubhamsolo/StudyNotion-main.git
-
-   Usage
-Once the app is running locally, you can sign up or log in to manage your study schedule.
-Add tasks and set reminders to stay on top of your deadlines.
-Contributing
-We welcome contributions to improve StudyNotion!
-
-Fork the repo.
-Create a new branch (git checkout -b feature/your-feature).
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature/your-feature).
-Open a pull request.
-License
-This project is licensed under the MIT License.
