@@ -3,7 +3,7 @@
 :rocket: [Link to website][https://studynotion-frontend.vercel.app/]
 
 
-![Main Page](images/mainpage.png)
+![Main Page](mainpage.png)
 StudyNotion is a fully functional EdTech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
 
 ## Table of Contents
@@ -92,13 +92,13 @@ The back-end of StudyNotion uses several data models and database schemas to man
 
 The database for the platform is built using MongoDB, a NoSQL database that provides a flexible and scalable data storage solution. MongoDB allows for the storage of unstructured and semi-structured data. The database stores the course content, user data, and other relevant information related to the platform.
 
-![Database Schema](images/schema.png)
+![Database Schema](schema.png)
 
 ### Architecture Diagram
 
 Below is a high-level diagram that illustrates the architecture of the StudyNotion EdTech platform:
 
-![Architecture](images/architecture.png)
+![Architecture](architecture.png)
 
 ## API Design
 
